@@ -1,0 +1,28 @@
+_repo: Jimmy-QuixoteA-novel_41754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gallon, Tom
+    alias: Gallon, T. (Tom)
+    birthdate: 1866
+    deathdate: 1914
+    gutenberg_agent_id: '40999'
+    url: http://www.gutenberg.org/2009/agents/40999
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Gallon
+description: ''
+gutenberg_issued: '2013-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: 'Jimmy Quixote: A Novel'
+url: http://www.gutenberg.org/ebooks/41754
